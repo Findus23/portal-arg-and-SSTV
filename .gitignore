@@ -1,0 +1,7 @@
+.idea/
+sound
+*.mp3
+*.ogg
+*.wav
+*.png
+tmp.py
